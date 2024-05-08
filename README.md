@@ -1,0 +1,2 @@
+- Design SCARA robot to phay TIC_TAC_TOE
+- Video Demo : https://www.youtube.com/watch?v=nwazHTX34hc
